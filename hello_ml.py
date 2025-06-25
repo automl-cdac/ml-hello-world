@@ -1,3 +1,4 @@
+#!/home/pc1/workspace/Day7/db_python/env/bin/python
 import platform
 import os
 import psutil
